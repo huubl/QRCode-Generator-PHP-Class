@@ -9,6 +9,8 @@
  * @version          1.2
  */
 
+namespace pH7;
+
 class QRCode
 {
     const API_URL = 'https://chart.googleapis.com/chart?chs=';
